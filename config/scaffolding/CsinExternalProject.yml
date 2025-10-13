@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/chandan-sinha-IBM
   gitUsername: chandan-sinha-IBM
   gitBranch: main
+- name: substractpackage
+  gitServerName: srcCtrl_gitlab_Arti
+  gitUrl: https://gitlab.com/ArtiKhareGitlabnew
+  gitUsername: ArtiKhareGitlabnew
+  gitBranch: master
