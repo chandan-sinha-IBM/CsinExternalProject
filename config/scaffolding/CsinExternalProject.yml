@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: CsinExternalProject
+  gitServerName: csingitHub
+  gitUrl: https://github.com/chandan-sinha-IBM
+  gitUsername: chandan-sinha-IBM
+  gitBranch: main
